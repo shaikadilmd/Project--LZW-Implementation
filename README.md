@@ -1,8 +1,8 @@
 /***
 
-@name Shaik Kamal Mohammed Adil	
+@Name Shaik Kamal Mohammed Adil	
 
-@studentID 801151613
+@StudentID 801151613
 
 ***/
 
